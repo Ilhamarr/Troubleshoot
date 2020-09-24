@@ -1,21 +1,13 @@
 # Documentation
 
 
-Troubleshoot.id is a business in computer service. in this time, i make a application mobile to making easier consument to order our services.
 
-### A. Motivate
-when i starting the business with my friends. many orders come by whatsapp to ordering a repair comuter/laptop. we had a discussion how to make some apps to make a easier cosument to order our service and it can be make a trust about out business.
-
-on our way to build this app, we have a problem in time. we must split time to serve a consument, work a collage task, and build this apps.
-
-### B. Project Duration
-I start work this on June 2020 and still on progress
 
 ### C. Sturture of my source code
-I focused on layout and templating for this apps, so i build on XML file and JAVA on android studio.
+
 ##### Directory
-my work are on directory :
-1. all of my java file is in directory
+
+1. all of java file is in directory
 app >> Java >> com.latihan.troubleshoot.id
 --> **MainActivity** is a core for run this program. all component must be call in here
 --> **historyfragment**,**historyfragment**,**profilefragment** is a fragment menu from bottom navigation. execution what doing in the fragment, code in that class.
